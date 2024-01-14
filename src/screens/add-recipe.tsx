@@ -233,7 +233,7 @@ export const AddRecipe = () => {
           <Input
             control={control}
             name="stock"
-            label="stock"
+            label="Stock"
             error={errors.stock?.message}
           />
         </div>
